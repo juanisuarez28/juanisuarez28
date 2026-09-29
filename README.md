@@ -1,6 +1,3 @@
-# Hola, soy Juani 👋
-
-**Desarrollador Full Stack que automatiza cosas con IA.**
 Técnico Universitario en Desarrollo de Aplicaciones Informáticas (TUDAI), de Argentina 🇦🇷.
 
 Hoy desarrollo sistemas de automatización con IA en una distribuidora de Tandil, y hago sitios web a medida como freelance.
@@ -31,7 +28,7 @@ Hoy desarrollo sistemas de automatización con IA en una distribuidora de Tandil
 
 | Proyecto | Descripción | Links |
 |---|---|---|
-| **Mack Studio** | Sitio web de consultora de Marketing. | [Demo](https://www.mackstudio.com.ar/) · [Repo](https://github.com/juanisuarez28/mackst) |
+| **Mack Studio** | Sitio web de mi estudio de desarrollo. | [Demo](https://www.mackstudio.com.ar/) · [Repo](https://github.com/juanisuarez28/mackst) |
 | **ProyectoVia** | Sitio web para cliente, desarrollado desde cero. | [Demo](https://www.proyectovia.org/) · [Repo](https://github.com/juanisuarez28/proyectovia) |
 | **SyGFoods** | Sitio web para cliente, desarrollado desde cero. | [Demo](https://sygfoods.com.ar/) · [Repo](https://github.com/juanisuarez28/sygfoods-web) |
 | **Pasame la Repe** | Plataforma de clips de partidos: 6 meses online y más de 50 partidos subidos. | [Demo](https://pasamelarepe-chi.vercel.app/) · [Repo](https://github.com/juanisuarez28/pasame-la-repe-clips) |
