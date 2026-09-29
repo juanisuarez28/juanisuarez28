@@ -3,7 +3,7 @@
 **Desarrollador Full Stack que automatiza cosas con IA.**
 Técnico Universitario en Desarrollo de Aplicaciones Informáticas (TUDAI), de Argentina 🇦🇷.
 
-Hoy desarrollo sistemas de automatización con IA en una distribuidora de Tandil, y hago sitios web a medida como freelance.
+Hoy desarrollo sistemas de automatización con IA en una empresa de Tandil, y hago sitios web a medida como freelance.
 
 🌐 **Mi portfolio:** [portfoliojuanignaciosuarez.vercel.app](https://portfoliojuanignaciosuarez.vercel.app/)
 
@@ -31,7 +31,7 @@ Hoy desarrollo sistemas de automatización con IA en una distribuidora de Tandil
 
 | Proyecto | Descripción | Links |
 |---|---|---|
-| **Mack Studio** | Sitio web de mi estudio de desarrollo. | [Demo](https://www.mackstudio.com.ar/) · [Repo](https://github.com/juanisuarez28/mackst) |
+| **Mack Studio** | Sitio web de una consultora de Marketing (Para la cual hago algunas webs). | [Demo](https://www.mackstudio.com.ar/) · [Repo](https://github.com/juanisuarez28/mackst) |
 | **ProyectoVia** | Sitio web para cliente, desarrollado desde cero. | [Demo](https://www.proyectovia.org/) · [Repo](https://github.com/juanisuarez28/proyectovia) |
 | **SyGFoods** | Sitio web para cliente, desarrollado desde cero. | [Demo](https://sygfoods.com.ar/) · [Repo](https://github.com/juanisuarez28/sygfoods-landing-experience) |
 | **Pasame la Repe** | Plataforma de clips de partidos. Estuvo online 6 meses, con más de 50 partidos filmados y subidos (proyecto finalizado). | [Repo](https://github.com/juanisuarez28/pasame-la-repe-clips) |
